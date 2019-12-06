@@ -2,7 +2,6 @@ version: 2
 
 sources:
   - name: RAW
-    loader: IngestPipeline
     description: Source DB from PostgreSQL
     tables:
       - name: RAW_EXAMPLE
@@ -13,8 +12,5 @@ models:
     columns:
       - name: EXAMPLE_PK
       - name: ID
-      - name: ACCOUNT_ID
       - name: TIMESTAMP
       - name: PRODUCT_ID
-      - name: NAME
-      - name: RECORD_INSERTED_IN_STAGING_DATAQUALITY_AT

@@ -23,5 +23,5 @@ WHERE
     {% endif %}
 
 -- DATAQUALITY RESULTS :
-EXAMPLE_PK:'recordone', ID:2, timestamp:"2019-11-05T18:16:03+00:00", PRODUCT_ID:1, ROW_NUM:1
-EXAMPLE_PK:'recordtwo', ID:2, timestamp:"2019-11-05T18:16:03+00:00", PRODUCT_ID:3, ROW_NUM:1
+-- EXAMPLE_PK:'recordone', ID:2, timestamp:"2019-11-05T18:16:03+00:00", PRODUCT_ID:1, ROW_NUM:1
+-- EXAMPLE_PK:'recordtwo', ID:2, timestamp:"2019-11-05T18:16:03+00:00", PRODUCT_ID:3, ROW_NUM:1
