@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: Q_EXAMPLE
+    description: example
+    columns:
+      - name: EXAMPLE_PK
+      - name: ID
+      - name: ACCOUNT_ID
+      - name: TIMESTAMP
+      - name: PRODUCT_ID
+      - name: NAME
+      - name: RECORD_INSERTED_IN_STAGING_DATAQUALITY_AT,
+      - name: ROW_NUM
